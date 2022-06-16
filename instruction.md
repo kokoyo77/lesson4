@@ -11,3 +11,7 @@
 * **git log --oneline** - упрощенный просмотр всех сохраненных версий
 * **git branch** - просмотр всех веток
 * **git merge 'name'** - слияние веток
+* **git config --global user.name 'name'** - создание имени разработчика
+* **git config --global user.mail 'email'** - добаление почтового ящика разработчика
+* **git branch 'name'** - создание новой ветки
+* **git checkout 'name'** - переход на ветку
