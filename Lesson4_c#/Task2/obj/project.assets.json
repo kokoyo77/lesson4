@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.shishkov\\Desktop\\Lesson1_C#\\sem1Task6\\sem1Task6.csproj",
-      "projectName": "sem1Task6",
-      "projectPath": "C:\\Users\\a.shishkov\\Desktop\\Lesson1_C#\\sem1Task6\\sem1Task6.csproj",
+      "projectUniqueName": "C:\\Users\\a.shishkov\\Desktop\\Lesson4_c#\\Task2\\Task2.csproj",
+      "projectName": "Task2",
+      "projectPath": "C:\\Users\\a.shishkov\\Desktop\\Lesson4_c#\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\a.shishkov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.shishkov\\Desktop\\Lesson1_C#\\sem1Task6\\obj\\",
+      "outputPath": "C:\\Users\\a.shishkov\\Desktop\\Lesson4_c#\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.shishkov\\AppData\\Roaming\\NuGet\\NuGet.Config"

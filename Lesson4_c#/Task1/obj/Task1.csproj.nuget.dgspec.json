@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.shishkov\\Desktop\\Lesson1_C#\\sem1Task5\\sem1Task5.csproj": {}
+    "C:\\Users\\a.shishkov\\Desktop\\Lesson4_c#\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.shishkov\\Desktop\\Lesson1_C#\\sem1Task5\\sem1Task5.csproj": {
+    "C:\\Users\\a.shishkov\\Desktop\\Lesson4_c#\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.shishkov\\Desktop\\Lesson1_C#\\sem1Task5\\sem1Task5.csproj",
-        "projectName": "sem1Task5",
-        "projectPath": "C:\\Users\\a.shishkov\\Desktop\\Lesson1_C#\\sem1Task5\\sem1Task5.csproj",
+        "projectUniqueName": "C:\\Users\\a.shishkov\\Desktop\\Lesson4_c#\\Task1\\Task1.csproj",
+        "projectName": "Task1",
+        "projectPath": "C:\\Users\\a.shishkov\\Desktop\\Lesson4_c#\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\a.shishkov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.shishkov\\Desktop\\Lesson1_C#\\sem1Task5\\obj\\",
+        "outputPath": "C:\\Users\\a.shishkov\\Desktop\\Lesson4_c#\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.shishkov\\AppData\\Roaming\\NuGet\\NuGet.Config"
